@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026071303,
-  "versionName": "1.0.20260713_0303",
+  "versionCode": 2026071314,
+  "versionName": "1.0.20260713_1433",
   "apkUrl": "https://github.com/GiZGY/OpenStream-TV-Updates/releases/latest/download/tvbox.apk",
-  "sha256": "d252be6c255789b5596438f8fb546d5b7a9b363b931e9d55cfde3c58ce5d17ec",
-  "notes": "验证 OpenStream TV 云更新自动发布链路。",
+  "sha256": "57f51033f61ba41353ff09693eadb182baee82274126e926789e4b6de5bbdb10",
+  "notes": "优化智能选片与播放反馈；搜索结果采用全宽五列布局，提升遥控浏览效率。",
   "mandatory": false
 }
