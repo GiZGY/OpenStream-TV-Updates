@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026071403,
-  "versionName": "1.0.20260714_0329",
+  "versionCode": 2026071419,
+  "versionName": "1.0.20260714_1925",
   "apkUrl": "https://github.com/GiZGY/OpenStream-TV-Updates/releases/latest/download/tvbox.apk",
-  "sha256": "ed59d7dfe2deafaaa23dbbbd148593f9245a40ff5021a28e1adb78261cf58969",
-  "notes": "提升多源搜索流畅度，减少重复排序与界面刷新，并降低搜索期间的线程占用。",
+  "sha256": "acfb26267c98a3407916e1a7d779697a098338d961ba301c44d437380570ee41",
+  "notes": "新增聚合影片详情页与可解释匹配评分；智能优选不再跳过详情，并强化年份、演员、导演和简介校验。",
   "mandatory": false
 }
