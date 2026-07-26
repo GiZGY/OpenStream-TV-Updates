@@ -1,8 +1,8 @@
 {
   "versionCode": 2026072615,
-  "versionName": "1.0.20260726_1506",
+  "versionName": "1.0.20260726_1530",
   "apkUrl": "https://github.com/GiZGY/OpenStream-TV-Updates/releases/latest/download/tvbox.apk",
-  "sha256": "3d0bfbebf498c3ebfc0c2ebf3139d700a3380332a9eb5a812fe466f3bb22baf1",
-  "notes": "网盘线路闭环：线路列表显示真实来源，夸克、UC、阿里登录状态参与优选；新增同设备加密凭据备份与恢复。",
+  "sha256": "72a8d275866c884775cae0ce54284882fbaede4bee7e0e0a60b2907405a379b9",
+  "notes": "修复电视检查更新偶发失败：更新通道改用系统 DNS，并加入清单缓存穿透；同时包含网盘线路来源显示与同设备加密凭据备份。",
   "mandatory": false
 }
