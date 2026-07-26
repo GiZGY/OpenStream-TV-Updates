@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026073140,
-  "versionName": "1.0.20260727_0044",
+  "versionCode": 2026073152,
+  "versionName": "1.0.20260727_0056",
   "apkUrl": "https://github.com/GiZGY/OpenStream-TV-Updates/releases/latest/download/tvbox.apk",
-  "sha256": "6806f60eb044003945697717df5397707c3a316d981409e0438cfad5a113f24c",
-  "notes": "修复备用更新入口缓存旧清单导致误报最新版：改用 GitHub Contents API 原始响应并保留独立网络通道。",
+  "sha256": "f120cd7e273b48b486d08d56e2c3636b0039fe7e157de6b0b12cff1265b5ffdc",
+  "notes": "网盘账号页新增阿里云盘登录状态，与夸克、UC 一并展示；阿里凭据已纳入同设备加密备份验证。",
   "mandatory": false
 }
