@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026078667,
-  "versionName": "1.0.20260730_2051",
+  "versionCode": 2026078677,
+  "versionName": "1.0.20260730_2101",
   "apkUrl": "https://github.com/GiZGY/OpenStream-TV-Updates/releases/latest/download/tvbox.apk",
-  "sha256": "4b51815c2bbf5af87cf88aa72e1c50478aefc84abd9a5721c529c2984f3febd9",
-  "notes": "修复更新包下载失败：支持断点续传、自动重试与更明确的失败提示。",
+  "sha256": "ada7163aed134b7ef14ddee4dff76a4591afaf7b1dbd1248dd36d25a8c334e2d",
+  "notes": "验证云更新下载闭环，并保留断点续传与自动重试能力。",
   "mandatory": false
 }
