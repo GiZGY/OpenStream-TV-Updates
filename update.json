@@ -1,14 +1,14 @@
 {
-  "versionCode": 2026078976,
-  "versionName": "1.0.20260731_0200",
+  "versionCode": 2026079017,
+  "versionName": "1.0.20260731_0241",
   "apkUrl": "https://github.com/GiZGY/OpenStream-TV-Updates/releases/latest/download/tvbox.apk",
-  "sha256": "3924040bfb83471c857edd5cdbea33938cf036c156f6539fa1b69781bf7781fe",
-  "notes": "修复聚合详情封面被线路广告图替换，并避免模糊网盘别名误写长期可用状态。",
+  "sha256": "f9c04530e1a9192102632dc272d856e3e3408b750938b922905c78d7bd34902c",
+  "notes": "修复从网盘搜索结果直接进入详情时仍显示推广封面的问题。",
   "mandatory": false,
   "apkParts": [
-    "https://b037ad53.openstream-tv-updates.pages.dev/tvbox-2026078976.part-aa",
-    "https://b037ad53.openstream-tv-updates.pages.dev/tvbox-2026078976.part-ab",
-    "https://b037ad53.openstream-tv-updates.pages.dev/tvbox-2026078976.part-ac",
-    "https://b037ad53.openstream-tv-updates.pages.dev/tvbox-2026078976.part-ad"
+    "https://b57de7ee.openstream-tv-updates.pages.dev/tvbox-2026079017.part-aa",
+    "https://b57de7ee.openstream-tv-updates.pages.dev/tvbox-2026079017.part-ab",
+    "https://b57de7ee.openstream-tv-updates.pages.dev/tvbox-2026079017.part-ac",
+    "https://b57de7ee.openstream-tv-updates.pages.dev/tvbox-2026079017.part-ad"
   ]
 }
