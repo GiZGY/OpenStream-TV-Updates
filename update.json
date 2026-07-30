@@ -1,14 +1,14 @@
 {
-  "versionCode": 2026078828,
-  "versionName": "1.0.20260730_2332",
+  "versionCode": 2026078833,
+  "versionName": "1.0.20260730_2337",
   "apkUrl": "https://github.com/GiZGY/OpenStream-TV-Updates/releases/latest/download/tvbox.apk",
-  "sha256": "327ac5e44313c5e198fa1077b02c1e33e8f5bfed4227563ece0d97a8f8d03eb2",
-  "notes": "提升旧款 Android TV 的应用内安装兼容性。",
+  "sha256": "d75a4bb393aa02bce946e00721f34dde79fa7bd6ccfd7e29c791f016d2e42199",
+  "notes": "应用内更新现已支持高速分片下载、断点续传和旧款电视安装器。",
   "mandatory": false,
   "apkParts": [
-    "https://f4aedb0e.openstream-tv-updates.pages.dev/tvbox-2026078828.part-aa",
-    "https://f4aedb0e.openstream-tv-updates.pages.dev/tvbox-2026078828.part-ab",
-    "https://f4aedb0e.openstream-tv-updates.pages.dev/tvbox-2026078828.part-ac",
-    "https://f4aedb0e.openstream-tv-updates.pages.dev/tvbox-2026078828.part-ad"
+    "https://305329bb.openstream-tv-updates.pages.dev/tvbox-2026078833.part-aa",
+    "https://305329bb.openstream-tv-updates.pages.dev/tvbox-2026078833.part-ab",
+    "https://305329bb.openstream-tv-updates.pages.dev/tvbox-2026078833.part-ac",
+    "https://305329bb.openstream-tv-updates.pages.dev/tvbox-2026078833.part-ad"
   ]
 }
